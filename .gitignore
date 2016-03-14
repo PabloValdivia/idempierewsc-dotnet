@@ -324,3 +324,4 @@ test-results/
 #*.dll
 *.lib
 *.sbr
+# *.config
