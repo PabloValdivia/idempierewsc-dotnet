@@ -100,7 +100,9 @@ namespace sandbox {
 
                 client.WriteRequest(Console.Out);
                 Console.WriteLine();
+                Console.WriteLine();
                 client.WriteResponse(Console.Out);
+                Console.WriteLine();
                 Console.WriteLine();
 
                 if (response.Status == WebServiceResponseStatus.Error) {
