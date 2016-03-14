@@ -11,7 +11,7 @@
     <AssemblyName>sandbox</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <StartupObject>sandbox.MainTestWS</StartupObject>
+    <StartupObject>sandbox.ExampleCreateImage</StartupObject>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WSClientTest\ExampleCreateImage.cs" />
     <Compile Include="WSClientTest\MainTestWS.cs" />
     <Compile Include="WSClientTest\AbstractTestWS.cs" />
     <Compile Include="WSClientTest\TestQueryData.cs" />
