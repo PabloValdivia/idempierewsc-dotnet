@@ -14,8 +14,6 @@ Examples are available in the sandbox folder.
 
 Features
 --------
-- Copyright: 2016 Saúl Piña <sauljabin@gmail.com>
-- Repository: https://github.com/sauljabin/idempierewsc-dotnet
 - License: LGPL 3
 - Language: C#, .NET 4.5
 - IDE: Visual Studio 2012, MonoDevelop 5.9.6
